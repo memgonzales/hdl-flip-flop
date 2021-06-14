@@ -77,7 +77,7 @@ Mano (1992) defines a *flip-flop* &mdash; the data storage element of synchronou
 ## Built Using
 This project consists of source codes and test benches written in the hardware description language **Verilog**. 
 
-If Icarus Verilog is installed, run the following command on the terminal to compile the Verilog program:
+If <a href = "http://iverilog.icarus.com/">Icarus Verilog</a> is installed, run the following command on the terminal to compile the Verilog program:
 
 ```
 iverilog -o <name of vvp file>.vvp <name of source code>.v <name of test bench>.v
@@ -89,7 +89,7 @@ To "execute" the program and generate the value change dumpfile (<code>.vcd</cod
 vvp <name of vvp file>.vvp
 ```
 
-To generate and view the waveform using GTKWave, run the following command:
+To generate and view the waveform using <a href = "http://gtkwave.sourceforge.net/">GTKWave</a>, run the following command:
 
 ```
 gtkwave <name of vcd file>.vcd
