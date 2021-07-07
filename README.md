@@ -104,7 +104,7 @@ Flip-Flop | Source Code | Test Bench | VCD File
 **D** | <a href = "https://github.com/memgonzales/hdl-flip-flop/blob/master/d.v"><code>d.v</code></a> | <a href = "https://github.com/memgonzales/hdl-flip-flop/blob/master/d_tb.v"><code>d_tb.v</code></a> | <code>d.vcd</code>
 **T** | <a href = "https://github.com/memgonzales/hdl-flip-flop/blob/master/t.v"><code>t.v</code></a> | <a href = "https://github.com/memgonzales/hdl-flip-flop/blob/master/t_tb.v"><code>t_tb.v</code></a> | <code>t.vcd</code>
 
-## Authors and References
+## Author and References
 - **Mark Edward M. Gonzales** <br/>
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com
