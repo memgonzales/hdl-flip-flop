@@ -1,4 +1,7 @@
 # Behavioral Modeling of Flip-Flops
+
+![badge](https://img.shields.io/badge/language-Verilog-blue.svg)
+
 This project is a compilation of Verilog **behavioral models** and test benches for the four types of flip-flops:
 - SR flip-flops
 - JK flip-flops
